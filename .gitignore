@@ -1,0 +1,11 @@
+# Lattice Output Files
+*.zst
+*.gem
+
+# Python System Files
+__pycache__/
+*.py[cod]
+venv/
+
+# Local Environment / Passwords
+.env
