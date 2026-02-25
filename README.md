@@ -60,10 +60,10 @@ pip install -r requirements.txt
 
 > [!IMPORTANT]
 > **Interface Unresponsiveness:** Large-scale operations (**100GB+**) may cause the UI to appear static while the processor is under heavy load. Refer to the real-time telemetry stats; if the RAM or Elapsed Time is ticking, the engine is healthy.
-[!IMPORTANT]
-* 🔑 **Disk Permissions:** The compression engine requires **direct write access**. If "Access Denied" errors occur, verify that your terminal or IDE has **administrative privileges** over the target drive.
- [!IMPORTANT]
-* 📉 **Hardware Bottlenecks:** Throughput speed is dictated by your physical drive (**HDD vs. NVMe**). If the progress indicator stalls, the engine is likely waiting for disk I/O. **DO NOT** interrupt the process to avoid archive corruption.
+
+>* 🔑 **Disk Permissions:** The compression engine requires **direct write access**. If "Access Denied" errors occur, verify that your terminal or IDE has **administrative privileges** over the target drive.
+
+>* 📉 **Hardware Bottlenecks:** Throughput speed is dictated by your physical drive (**HDD vs. NVMe**). If the progress indicator stalls, the engine is likely waiting for disk I/O. **DO NOT** interrupt the process to avoid archive corruption.
 
 <br>
 
