@@ -42,9 +42,9 @@
 
 ### 1️⃣ **Environment Preparation**
 Before deployment, ensure your system is equipped with the following:
-* 🐍 **Python 3.12+**: Required for modern memory management and core stability.
-* 🐙 **Git SCM**: Essential for secure version control and repository management.
-
+* 🐍 [**Python 3.12+**](https://www.python.org/downloads/): Required for modern memory management and core stability.
+* 🐙 [**Git SCM**](https://git-scm.com/downloads): Essential for secure version control and repository management.
+  
 ### 2️⃣ **Local Deployment**
 Execute the following sequence in your terminal to initialize the suite:
 
