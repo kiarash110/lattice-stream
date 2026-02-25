@@ -11,11 +11,15 @@
 ## 📥 **Core Capabilities**
 
 * 🚀 **Bimodal Compression Logic:** Seamlessly toggle between **Nitro Mode** (utilizing the Zstandard algorithm for maximum throughput) and **Squeeze Mode** (utilizing LZMA for deep archival ratios).
+* 
 * 🌊 **Buffered Data Streaming:** Optimized for low-memory environments, the engine processes datasets in controlled chunks to ensure **system stability** even when handling terabyte-scale files.
+* 
 * 🛡️ **Intelligent Namespace Protection:** Integrated logic automatically detects file naming conflicts and applies **non-destructive versioning** to prevent accidental data loss.
+* 
 * 📂 **Structural Fidelity:** Unlike standard tools, Lattice preserves the **exact directory hierarchy** of compressed folders, ensuring seamless restoration.
+* 
 * 📊 **Active Telemetry Dashboard:** A specialized UI layer provides **live feedback** on hardware strain, memory overhead, and effective space savings.
-
+* 
 <br>
 
 <div align="center">
