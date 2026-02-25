@@ -1,4 +1,4 @@
-# <center>💠 Lattice Unified | v1.0.0
+<p align="center"># 💠 Lattice Unified | v1.0.0
 
 <br>
 High-Performance Data Compression & Archival Suite
