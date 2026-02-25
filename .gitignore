@@ -1,11 +1,17 @@
-# Lattice Output Files
-*.zst
-*.gem
-
-# Python System Files
+# Python junk
 __pycache__/
 *.py[cod]
+*$py.class
 venv/
+env/
 
-# Local Environment / Passwords
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Lattice/AEGIS specific junk
+*.zst
+*.gem
+*.tar
+mfa_setup.png
 .env
