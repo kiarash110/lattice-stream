@@ -48,7 +48,7 @@ Before deployment, ensure your system is equipped with the following:
 ### 2️⃣ **Local Deployment**
 Execute the following sequence in your terminal to initialize the suite:
 ```
-git clone https://github.com/kiarash110/Lattice-Unified.git
+git clone https://github.com/kiarash110/lattice-stream.git
 
 cd Lattice-Unified
 
