@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">💠 **Lattice Unified** | `v1.0.0`</h1>
+  <h1 align="center">💠 **Lattice Unified** | v1.0.0</h1>
   <p align="center">
     <b>High-Performance Data Compression & Archival Suite</b><br>
     Lattice Unified is a professional-grade utility engineered for massive-scale data management. It specializes in bridging the gap between high-capacity storage (1TB+) and rapid deployment through a specialized dual-engine compression architecture.
