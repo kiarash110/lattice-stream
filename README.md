@@ -1,4 +1,4 @@
-💠 Lattice Unified | v1.0.0
+#💠 Lattice Unified | v1.0.0
 High-Performance Data Compression & Archival Suite
 Lattice Unified is a professional-grade utility engineered for massive-scale data management. It specializes in bridging the gap between high-capacity storage (1TB+) and rapid deployment through a specialized dual-engine compression architecture.
 <br>
@@ -21,7 +21,7 @@ Active Telemetry Dashboard: A specialized UI layer provides live feedback on har
 | **Interface** | CustomTkinter (Modern GUI Framework) |
 | **Monitoring** | PSUtil Hardware Integration |
 <br>
-## ⚙️ Prerequisites & Setup
+#⚙️ Prerequisites & Setup
 ### 1. Environment Preparation
 Before deployment, ensure your system is equipped with the following:
 
