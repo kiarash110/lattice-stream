@@ -65,12 +65,7 @@ pip install -r requirements.txt
 
 <br>
 
-## 📋 **Project Configuration Files**
+## ⚖️ **Legal & Compliance**
 
-#### **Dependency Manifest (requirements.txt)**
-Ensure these specific libraries are provisioned in your environment:
-```text
-zstandard
-psutil
-customtkinter
-tkinterdnd2
+#### **🏛️ Trademark Information: Lattice Unified is an independent open-source project. It is not affiliated with, sponsored by, or endorsed by any corporate entity holding trademarks for "Lattice." The name is used strictly as a descriptor for data structure organization.**
+#### **⚠️ Liability Disclaimer: This software is provided "as is." The developer assumes no responsibility for data corruption, hardware failure, or accidental file deletion. Users are strongly advised to verify archives before removing original source data.**
