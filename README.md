@@ -47,16 +47,13 @@ Before deployment, ensure your system is equipped with the following:
   
 ### 2️⃣ **Local Deployment**
 Execute the following sequence in your terminal to initialize the suite:
-
-# Obtain source code 
+```
 git clone https://github.com/kiarash110/Lattice-Unified.git
 
-# Enter project root
 cd Lattice-Unified
 
-# Provision environment dependencies
 pip install -r requirements.txt
-
+```
 <br>
 
 ## 🛠️ **Operational Maintenance**
