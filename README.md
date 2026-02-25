@@ -50,7 +50,7 @@ Execute the following sequence in your terminal to initialize the suite:
 ```
 git clone https://github.com/kiarash110/lattice-stream.git
 
-cd Lattice-Unified
+cd lattice-stream
 
 pip install -r requirements.txt
 ```
