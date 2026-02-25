@@ -1,4 +1,6 @@
-###*💠 Lattice Unified | v1.0.0*
+# *💠 Lattice Unified | v1.0.0*
+
+<br>
 High-Performance Data Compression & Archival Suite
 Lattice Unified is a professional-grade utility engineered for massive-scale data management. It specializes in bridging the gap between high-capacity storage (1TB+) and rapid deployment through a specialized dual-engine compression architecture.
 <br>
