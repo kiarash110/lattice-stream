@@ -1,0 +1,4 @@
+zstandard
+psutil
+customtkinter
+tkinterdnd2
